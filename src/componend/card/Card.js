@@ -31,7 +31,7 @@ class Card extends React.Component {
             className="cardDesign card"
           ></div>
           <button
-            onClick={() => this.handleButtonCLicked("John")}
+            onClick={() => this.handleButtonCLicked()}
             style={{ marginBottom: "-7%" }}
             className="btn btn-primary"
           >
