@@ -1,0 +1,12 @@
+.cardDesign {
+  height: 57vh !important;
+  width: 21% !important;
+  top: 50 !important;
+  margin-top: 8% !important;
+}
+
+.textPosition {
+  position: absolute !important;
+  margin-left: 35% !important;
+  margin-top: -45% !important;
+}
